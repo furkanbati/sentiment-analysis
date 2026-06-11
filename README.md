@@ -1,13 +1,12 @@
 # sentiment-analysis
 End-to-end Sentiment Analysis project. Trained on 50k IMDB reviews, deployed with Streamlit. Features: text preprocessing, TF-IDF vectorization, and Logistic Regression model.
-Tabii ki! Duygu analizi projen için profesyonel, temiz ve GitHub'da doğrudan kullanabileceğin bir README.md taslağını aşağıda bulabilirsin.
 
 
 🎬 IMDB Sentiment Analysis Web App
 This project is a machine learning-based web application that performs sentiment analysis on IMDB movie reviews. It classifies whether a given review is Positive or Negative using a Logistic Regression model trained on 50,000 movie reviews.
 
 🚀 Live Demo
-You can access the live application here: [Insert Your Streamlit Link Here]
+You can access the live application here: (https://sentiment-analysisgit-656p4sg7jfrqqu8vbcydf2.streamlit.app/)
 
 🛠 Features
 Real-time Prediction: Get instant sentiment feedback on your text input.
@@ -33,7 +32,7 @@ Joblib (Model Serialization)
 Clone this repository:
 
 Bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/furkanbati/sentiment-analysis.git
 Install the required libraries:
 
 Bash
